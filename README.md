@@ -1,6 +1,6 @@
 # SmartCV React App
 FOR DEMO [Click Here](https://jocular-kashata-532a62.netlify.app).
-<p><img src="home.png" alt="homepage"></p>
+<p><img src="./IG/home.png" alt="homepage"></p>
 
 
 
