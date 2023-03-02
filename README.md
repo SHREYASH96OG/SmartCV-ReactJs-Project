@@ -1,3 +1,35 @@
+# SmartCV React App
+FOR DEMO [Click Here](https://jocular-kashata-532a62.netlify.app).
+<p><img src="home.png" alt="homepage"></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
